@@ -28,10 +28,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<div style="position: relative; padding-bottom: 81.57099697885198%; height: 0;"><iframe src="https://www.loom.com/embed/8c5ebed51e544aeab924a8fc4643ca37?sid=0ecde46c-c9fb-43d7-969d-fa56b66c910f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 <!-- Replace this with whatever GIF tool you used! -->
 
 GIF created with ...
