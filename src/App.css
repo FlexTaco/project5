@@ -1,0 +1,82 @@
+.rightList {
+  height: 100%;
+  width: 15%;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ffacace4;
+  color: #000;
+  padding: 15px 15px 15px 10px;
+  display: flex;
+  overflow-y: scroll;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.stats {
+  background-color: rgb(255, 255, 255);
+  color: #000;
+  padding: 15px 15px 15px 15px;
+  text-align: center;
+  display: flex;
+}
+.checkList {
+  background-color: rgb(108, 108, 108);
+  color: #000;
+  padding: 15px 15px 15px 15px;
+  text-align: center;
+}
+.checkList,
+h1 {
+  margin: 0;
+}
+.checkList,
+p {
+  margin-top: 0;
+  color: white;
+}
+
+.checkImg {
+  height: 200px;
+}
+.pokemonName {
+  color: cyan;
+}
+#atributes {
+  color: white;
+  margin: 5px;
+}
+
+.banListElements {
+  margin: 3px;
+}
+.container {
+  display: flex;
+}
+.statcontainer {
+  background-color: yellow;
+  padding: 20px;
+  margin: 10px;
+}
+.seenListElements {
+  margin: 5px;
+  color: red;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+th,
+td {
+  margin: 40px;
+  text-align: center;
+  width: 4%;
+}
+.stats p {
+  color: black;
+  font-size: large;
+}
